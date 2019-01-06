@@ -5,13 +5,13 @@ public class HtmlInfo implements HtmlInfoInterface {
 	@Override
 	public double getEndPrice(String htmstr) {
 		// TODO Auto-generated method stub
-		return 0;
+		return 1;
 	}
 
 	@Override
 	public double getVolume(String htmstr) {
 		// TODO Auto-generated method stub
-		return 0;
+		return 1;
 	}
 
 	@Override
