@@ -1,13 +1,13 @@
-package cn.hyf.shares_reptile_springboot;
+package cn.hyf;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SharesReptileSpringbootApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SharesReptileSpringbootApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
