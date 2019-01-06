@@ -28,7 +28,8 @@ public class Main implements CommandLineRunner {
 		// TODO Auto-generated method stub
 		
 		
-		String name = "神火股份";
+//		String name = "神火股份";
+		String name = "美的集团";
 		
 		log.info("工作开始");
 		HttpResponse httpResponse = requestTool.request("http://www.baidu.com/s?wd="+name);
